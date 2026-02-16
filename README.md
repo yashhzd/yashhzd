@@ -75,7 +75,7 @@ let yash = Developer {
         <img src="https://img.shields.io/badge/OWASP_BLT-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP BLT" />
       </a>
       <br>
-      <sub><b>21+ Merged PRs</b></sub>
+      <sub><b>31+ Merged PRs</b></sub>
       <br>
       <sub>Bug tracking & blockchain security platform</sub>
     </td>

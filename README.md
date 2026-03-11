@@ -1,17 +1,24 @@
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Blockchain+Developer+%7C+Open+Source+Contributor;Systems+Programmer+%7C+GSoC+2026+Aspirant" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=620&lines=Blockchain+Developer+%7C+Systems+Programmer;Open+Source+Contributor+across+6%2B+orgs;GSoC+2026+Aspirant" alt="Typing SVG" />
 </h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yashhzd&style=flat-square&color=00D9FF" alt="Profile Views" />
+</p>
+
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> About Me
 
 ```rust
 let yash = Developer {
     role: "Blockchain Developer & Open Source Contributor",
-    languages: vec!["Rust", "Python", "Java", "TypeScript"],
-    expertise: vec!["Blockchain", "Systems Programming", "Web Security"],
-    currently_contributing: vec![
+    languages: vec!["Rust", "Python", "Java", "C#", "TypeScript", "JavaScript"],
+    expertise: vec!["Blockchain", "Systems Programming", "Web Security", "Developer Tooling"],
+    contributing_to: vec![
+        "GitHub MCP Server",
+        "Mesa / mesa-llm",
+        "Accord Project",
         "OWASP BLT",
         "Hyperledger Besu",
         "Cardano Foundation",
@@ -20,62 +27,66 @@ let yash = Developer {
     philosophy: "Ship code, not slides.",
 };
 ```
-<br>
+
+---
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> Trophy Shelf
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yashhzd&theme=algolia&no-bg=true&no-frame=true&column=7" alt="Trophies" />
+</p>
+
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> Technical Skills
 
-<table align="center">
-  <tr>
-    <td align="left" width="150"><strong>Languages</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white&style=flat" height="22" alt="Rust" />
-      <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=flat" height="22" alt="Python" />
-      <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white&style=flat" height="22" alt="Java" />
-      <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat" height="22" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E&style=flat" height="22" alt="JavaScript" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="150"><strong>Blockchain</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Bitcoin-F7931A?logo=bitcoin&logoColor=white&style=flat" height="22" alt="Bitcoin" />
-      <img src="https://img.shields.io/badge/Solana-9945FF?logo=solana&logoColor=white&style=flat" height="22" alt="Solana" />
-      <img src="https://img.shields.io/badge/Hyperledger-2F3134?logo=hyperledger&logoColor=white&style=flat" height="22" alt="Hyperledger" />
-      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?logo=ethereum&logoColor=white&style=flat" height="22" alt="Ethereum" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="150"><strong>Backend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=flat" height="22" alt="Django" />
-      <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=flat" height="22" alt="Node.js" />
-      <img src="https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white&style=flat" height="22" alt="PostgreSQL" />
-    </td>
-  </tr>
-  <tr>
-    <td align="left" width="150"><strong>Tools & DevOps</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Git-E44C30?logo=git&logoColor=white&style=flat" height="22" alt="Git" />
-      <img src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white&style=flat" height="22" alt="Docker" />
-      <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat" height="22" alt="Linux" />
-      <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white&style=flat" height="22" alt="GitHub Actions" />
-      <img src="https://img.shields.io/badge/VS%20Code-0078d7?logo=visualstudiocode&logoColor=white&style=flat" height="22" alt="VS Code" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=rust,python,java,ts,js,cs,django,nodejs,postgres,docker,git,linux,github,vscode,solidity&perline=8&theme=dark" alt="Skills" />
+</p>
 
-<br>
+---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> Open Source Contributions
 
+### Organizations
+
 <table align="center">
+  <tr>
+    <td align="center" width="200">
+      <a href="https://github.com/github/github-mcp-server">
+        <img src="https://img.shields.io/badge/GitHub_MCP_Server-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub MCP Server" />
+      </a>
+      <br>
+      <sub><b>Issues & PRs</b></sub>
+      <br>
+      <sub>Official GitHub MCP integration</sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/mesa-llm/mesa-llm">
+        <img src="https://img.shields.io/badge/Mesa%2Fmesa--llm-FF6F00?style=for-the-badge&logo=python&logoColor=white" alt="Mesa/mesa-llm" />
+      </a>
+      <br>
+      <sub><b>6+ PRs, Contributor</b></sub>
+      <br>
+      <sub>LLM-powered agent-based modeling</sub>
+    </td>
+    <td align="center" width="200">
+      <a href="https://github.com/accordproject">
+        <img src="https://img.shields.io/badge/Accord_Project-1E88E5?style=for-the-badge&logo=linux-foundation&logoColor=white" alt="Accord Project" />
+      </a>
+      <br>
+      <sub><b>3 Merged PRs</b></sub>
+      <br>
+      <sub>Smart legal contracts & templates</sub>
+    </td>
+  </tr>
   <tr>
     <td align="center" width="200">
       <a href="https://github.com/OWASP-BLT/BLT">
         <img src="https://img.shields.io/badge/OWASP_BLT-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP BLT" />
       </a>
       <br>
-      <sub><b>31+ Merged PRs</b></sub>
+      <sub><b>32+ Merged PRs</b></sub>
       <br>
       <sub>Bug tracking & blockchain security platform</sub>
     </td>
@@ -102,6 +113,54 @@ let yash = Developer {
 
 <br>
 
+### Merged PRs
+
+| Project | PR | Description |
+|:--------|:---|:------------|
+| ![mesa-llm](https://img.shields.io/badge/mesa--llm-%236f42c1?style=flat-square) | [#128](https://github.com/mesa-llm/mesa-llm/pull/128) | Memory × reasoning integration tests + async bug fixes |
+| ![mesa-llm](https://img.shields.io/badge/mesa--llm-%236f42c1?style=flat-square) | [#82](https://github.com/mesa-llm/mesa-llm/pull/82) | Fix deprecated `AgentSet.__getitem__` in tests |
+| ![mesa-llm](https://img.shields.io/badge/mesa--llm-%236f42c1?style=flat-square) | [#81](https://github.com/mesa-llm/mesa-llm/pull/81) | Fix orphaned pages in docs toctree |
+| ![concerto-codegen](https://img.shields.io/badge/concerto--codegen-%236f42c1?style=flat-square) | [#201](https://github.com/accordproject/concerto-codegen/pull/201) | Fix C# reserved keyword escaping in enum values |
+| ![OWASP BLT](https://img.shields.io/badge/OWASP_BLT-%236f42c1?style=flat-square) | [#5847](https://github.com/OWASP-BLT/BLT/pull/5847) | Fix JSONP injection, auth bypass, harden comment views |
+
+### Issues Filed
+
+| Project | Issue | Description |
+|:--------|:------|:------------|
+| ![github-mcp-server](https://img.shields.io/badge/github--mcp--server-%23238636?style=flat-square) | [#2044](https://github.com/github/github-mcp-server/issues/2044) | Numeric param string coercion → validation errors (fixed via PR #2130) |
+| ![mesa-llm](https://img.shields.io/badge/mesa--llm-%23238636?style=flat-square) | [#127](https://github.com/mesa-llm/mesa-llm/issues/127) | Memory × reasoning integration tests missing |
+
+### Open / In Review
+
+| Project | PR | Description |
+|:--------|:---|:------------|
+| ![mesa-llm](https://img.shields.io/badge/mesa--llm-238636?style=flat-square&labelColor=238636&color=30363d) | [#165](https://github.com/mesa-llm/mesa-llm/pull/165)–[#168](https://github.com/mesa-llm/mesa-llm/pull/168) | Memory staging, eviction, tool filtering, configurable injection |
+| ![template-engine](https://img.shields.io/badge/template--engine-238636?style=flat-square&labelColor=238636&color=30363d) | [#91](https://github.com/accordproject/template-engine/pull/91) | Fix parent data context for optional blocks |
+| ![markdown-transform](https://img.shields.io/badge/markdown--transform-238636?style=flat-square&labelColor=238636&color=30363d) | [#647](https://github.com/accordproject/markdown-transform/pull/647) | Preserve parent scope in conditional/optional blocks |
+| ![github-mcp-server](https://img.shields.io/badge/github--mcp--server-238636?style=flat-square&labelColor=238636&color=30363d) | [#2043](https://github.com/github/github-mcp-server/pull/2043) | Align Implementation.Name with VS Code config |
+| ![OWASP BLT](https://img.shields.io/badge/OWASP_BLT-238636?style=flat-square&labelColor=238636&color=30363d) | [#5848](https://github.com/OWASP-BLT/BLT/pull/5848)–[#5849](https://github.com/OWASP-BLT/BLT/pull/5849) | N+1 query fixes + crash fixes |
+| ![OWASP BLT](https://img.shields.io/badge/OWASP_BLT-238636?style=flat-square&labelColor=238636&color=30363d) | [#5843](https://github.com/OWASP-BLT/BLT/pull/5843) | Org-scoped security monitoring dashboard |
+
+<br>
+
+### Pinned Repositories
+
+<p align="center">
+  <a href="https://github.com/OWASP-BLT/BLT">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=OWASP-BLT&repo=BLT&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" alt="BLT" />
+  </a>
+  <a href="https://github.com/mesa-llm/mesa-llm">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mesa-llm&repo=mesa-llm&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" alt="mesa-llm" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/github/github-mcp-server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=github&repo=github-mcp-server&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" alt="github-mcp-server" />
+  </a>
+</p>
+
+---
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> GitHub Statistics
 
 <div align="center">
@@ -117,19 +176,31 @@ let yash = Developer {
 
 <br>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhzd&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashhzd&bg_color=0D1117&color=c9d1d9&line=00D9FF&point=ffffff&area=true&area_color=00D9FF&hide_border=true" alt="Activity Graph" />
+</div>
+
+---
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> Connect With Me
 
 <p align="center">
   <a href="https://github.com/yashhzd" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="22" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="mailto:yashvardhan664@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" height="22" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <em>Open to collaboration on blockchain, systems programming, and open-source projects.</em>
+  <em>Open to collaboration on blockchain, systems programming, developer tooling, and open-source projects.</em>
 </p>

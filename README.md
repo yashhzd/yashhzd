@@ -30,14 +30,6 @@ let yash = Developer {
 
 ---
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> Trophy Shelf
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashhzd&theme=algolia&no-bg=true&no-frame=true&column=7" alt="Trophies" />
-</p>
-
----
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> Technical Skills
 
 <p align="center">
@@ -158,33 +150,6 @@ let yash = Developer {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=github&repo=github-mcp-server&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" alt="github-mcp-server" />
   </a>
 </p>
-
----
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px" height="28px"> GitHub Statistics
-
-<div align="center">
-
-<a href="https://github.com/yashhzd">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yashhzd&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&icon_color=00D9FF&title_color=00D9FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/yashhzd">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yashhzd&theme=dark&hide_border=true&background=0D1117&stroke=00b3ff&ring=00b3ff&fire=00b3ff&currStreakLabel=00b3ff&sideLabels=00b3ff&currStreakNum=ffffff&dates=8b949e&sideNums=ffffff" />
-</a>
-
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashhzd&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=c9d1d9" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashhzd&bg_color=0D1117&color=c9d1d9&line=00D9FF&point=ffffff&area=true&area_color=00D9FF&hide_border=true" alt="Activity Graph" />
-</div>
 
 ---
 
